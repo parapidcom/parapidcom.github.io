@@ -1,5 +1,4 @@
 import React from 'react';
-import { Terminal } from 'lucide-react';
 import Image from 'next/image';
 
 // Metadata configuration would go in a separate layout.tsx or page.tsx file
